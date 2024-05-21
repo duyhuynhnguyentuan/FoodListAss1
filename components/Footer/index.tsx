@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
 const Footer: React.FC = () => {
   return (
     <View style={styles.sectionContainer}>
-      <Text style={styles.text}>All rights reserved by SE160557, 2024</Text>
+      <Text style={styles.text}>All rights reserved by SE170187, 2024</Text>
     </View>
   );
 };
